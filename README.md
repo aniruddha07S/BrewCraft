@@ -4,8 +4,6 @@ A single-page WordPress website built for the fictional brand **BrewCraft Coffee
 
 > **Status:** Part 1 (Development) is complete. Part 2 (Technical SEO) is not yet started.
 
-## Live Site
-[Add live URL here once deployment is finished]
 
 ## What Was Built
 
