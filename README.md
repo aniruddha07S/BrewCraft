@@ -54,4 +54,4 @@ Not yet started. Planned next:
 
 ## Notes
 
-This project was built in my own words as part of a hiring assignment. AI assistance (Claude) was used for troubleshooting deployment/hosting configuration and for scaffolding this README — the WordPress build (layout, sections, styling) was designed and implemented by me.
+This project was built in my own words as part of a hiring assignment.
